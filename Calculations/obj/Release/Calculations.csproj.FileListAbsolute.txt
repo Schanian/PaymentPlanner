@@ -1,0 +1,10 @@
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\bin\Release\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\bin\Release\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\obj\Release\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\obj\Release\Calculations.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\bin\Release\Calculations.dll
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\bin\Release\Calculations.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\obj\Release\Calculations.csprojAssemblyReference.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\obj\Release\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\obj\Release\Calculations.dll
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\obj\Release\Calculations.pdb

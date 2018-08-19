@@ -1,0 +1,62 @@
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Calculations.dll
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\Calculations.pdb
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculationUI.csproj.GenerateResource.Cache
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\CalculationUI.exe.config
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\CalculationUI.exe
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\bin\Debug\CalculationUI.pdb
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculationUI_MarkupCompile.cache
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculationUI.g.resources
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculationUI.Properties.Resources.resources
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculationUI.exe
+C:\Users\Satnam\documents\visual studio 2013\Projects\WpfApplication1\WpfApplication1\obj\Debug\CalculationUI.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\bin\Debug\CalculationUI.exe.config
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\CalculationUI.exe
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\CalculationUI.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\bin\Debug\CalculationUI.exe
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\bin\Debug\CalculationUI.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\bin\Debug\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\bin\Debug\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\CalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\MainWindow.baml
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\MainWindow.g.cs
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\App.g.cs
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\CalculationUI_MarkupCompile.cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\CalculationUI.g.resources
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\CalculationUI.Properties.Resources.resources
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\SampleWPF01\obj\Debug\CalculationUI.csproj.GenerateResource.Cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Debug\PaymentPlanner.exe.config
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Debug\PaymentPlanner.exe
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Debug\PaymentPlanner.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Debug\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Debug\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\CalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\MainWindow.baml
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\MainWindow.g.cs
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\App.g.cs
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\PaymentPlanner_MarkupCompile.cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\PaymentPlanner.g.resources
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\CalculationUI.Properties.Resources.resources
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\CalculationUI.csproj.GenerateResource.Cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\PaymentPlanner.exe
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Debug\PaymentPlanner.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Debug\PaymentPlanner.exe.config
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Debug\PaymentPlanner.exe
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Debug\PaymentPlanner.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Debug\Calculations.dll
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Debug\Calculations.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\CalculationUI.csprojAssemblyReference.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\MainWindow.baml
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\MainWindow.g.cs
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\App.g.cs
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\PaymentPlanner_MarkupCompile.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\PaymentPlanner.g.resources
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\CalculationUI.Properties.Resources.resources
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\CalculationUI.csproj.GenerateResource.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\CalculationUI.csproj.CoreCompileInputs.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\CalculationUI.csproj.CopyComplete
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\PaymentPlanner.exe
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Debug\PaymentPlanner.pdb

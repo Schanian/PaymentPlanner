@@ -1,0 +1,32 @@
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Release\PaymentPlanner.exe.config
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Release\PaymentPlanner.exe
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Release\PaymentPlanner.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Release\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\bin\Release\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\CalculationUI.csprojResolveAssemblyReference.cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\MainWindow.baml
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\MainWindow.g.cs
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\App.g.cs
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\PaymentPlanner_MarkupCompile.cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\PaymentPlanner.g.resources
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\CalculationUI.Properties.Resources.resources
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\CalculationUI.csproj.GenerateResource.Cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\PaymentPlanner.exe
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\PaymentPlanner\obj\Release\PaymentPlanner.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Release\PaymentPlanner.exe.config
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Release\PaymentPlanner.exe
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Release\PaymentPlanner.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Release\Calculations.dll
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\bin\Release\Calculations.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\CalculationUI.csprojAssemblyReference.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\MainWindow.baml
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\MainWindow.g.cs
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\App.g.cs
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\PaymentPlanner_MarkupCompile.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\PaymentPlanner.g.resources
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\CalculationUI.Properties.Resources.resources
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\CalculationUI.csproj.GenerateResource.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\CalculationUI.csproj.CoreCompileInputs.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\CalculationUI.csproj.CopyComplete
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\PaymentPlanner.exe
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\PaymentPlanner\obj\Release\PaymentPlanner.pdb

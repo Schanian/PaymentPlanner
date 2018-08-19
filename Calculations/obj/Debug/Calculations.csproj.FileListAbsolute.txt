@@ -1,0 +1,20 @@
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\WpfApplication1\Calculations\bin\Debug\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\WpfApplication1\Calculations\bin\Debug\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\WpfApplication1\Calculations\obj\Debug\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2013\Projects\WpfApplication1\Calculations\obj\Debug\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\Calculations\bin\Debug\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\Calculations\bin\Debug\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\Calculations\obj\Debug\Calculations.csprojResolveAssemblyReference.cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\Calculations\obj\Debug\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\SampleWPF01\Calculations\obj\Debug\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\bin\Debug\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\bin\Debug\Calculations.pdb
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\obj\Debug\Calculations.csprojResolveAssemblyReference.cache
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\obj\Debug\Calculations.dll
+C:\Users\Satnam\Documents\Visual Studio 2015\Projects\PaymentPlanner-ver-000.001.00\Calculations\obj\Debug\Calculations.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\bin\Debug\Calculations.dll
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\bin\Debug\Calculations.pdb
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\obj\Debug\Calculations.csprojAssemblyReference.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\obj\Debug\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\obj\Debug\Calculations.dll
+C:\Users\Satna\Documents\Project Backups\Working\PaymentPlanner-ver-0.0.0.1.0.0.1\Calculations\obj\Debug\Calculations.pdb
